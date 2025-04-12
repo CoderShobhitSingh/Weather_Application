@@ -14,5 +14,8 @@ A simple React + Node.js app to fetch and display current weather information us
 ### 1. Clone the Repository
 
 ```bash
-git 
-cd 
+git https://github.com/CoderShobhitSingh/Weather_Application.git
+
+###
+for start the frontend --> npm start
+for start the backend --> node server.js
